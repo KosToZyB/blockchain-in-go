@@ -334,6 +334,6 @@ func main() {
 
 Если Вы хотите, что бы мы добавили механизм Proof of Work и работу по сети, вы можете сообщить об этом в [чате Telegram](https://t.me/joinchat/FX6A7UThIZ1WOUNirDS_Ew) или подписаться на нас в [Twitter](https://twitter.com/myCoralHealth)! Это лучшие способы связаться с нами. Мы ждем новых отзывов и новых предложений по урокам. Мы рады услышать Вас!
 
-Чтобы узнать больше о Coral Health и о том, как мы используем blockchain в исследовательской работе по медецине, можете посетить наш [сайт](https://mycoralhealth.com/).
+Чтобы узнать больше о Coral Health и о том, как мы используем blockchain в исследовательской работе по медицине, можете посетить наш [сайт](https://mycoralhealth.com/).
 
 *P.S. Автор перевода будет благодарен за указанные ошибки и неточности перевода. [Оригинал](https://medium.com/@mycoralhealth/code-your-own-blockchain-in-less-than-200-lines-of-go-e296282bcffc) статьи.*
